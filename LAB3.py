@@ -2,3 +2,4 @@ print("I will convert your celsius to fahrenheit, inch to centimeters, and pound
 celsius = input("Please enter a number for Celsius degrees:")
 inch = input("Please enter a number for inch:")
 pounds = input("Please enter a number for pounds :")
+print("adding new things")
